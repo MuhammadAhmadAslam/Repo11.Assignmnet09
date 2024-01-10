@@ -1,0 +1,34 @@
+.welcome{
+    background-color: #053668;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    width: 100%;
+    height: 220px;
+}
+h1{
+    background-color: #C4C8FF;
+    text-align: center;
+    font-size: 3em;
+}
+.main{
+    background-color: #074A78;
+    color: white;
+    text-align: center;
+    width: 80%;
+    height: 200px;
+    font-size: xx-large;
+
+}
+.ul1{
+    font-size: xx-large;
+}
+td.second a{
+    text-decoration: none;
+    color: white;
+     height: 5px;
+}
+table.main a{
+    text-decoration: none;
+    color: white;
+}
